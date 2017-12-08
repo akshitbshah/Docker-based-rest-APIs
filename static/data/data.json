@@ -1,0 +1,233 @@
+{
+    "Employee": [
+      {
+        "id": "e1",
+        "name": {
+          "age": "27",
+          "nationality": "Indian",
+          "text": "Vivek"
+        },
+        "sname": "Patel",
+        "email": "vp60132n@pace.edu",
+        "gender": { "type": "Male" },
+        "salary": "$10000",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Lead",
+        "projects": {
+          "project": [
+            "P1",
+            "P2",
+            "P3"
+          ]
+        }
+      },
+      {
+        "id": "e2",
+        "name": {
+          "age": "27",
+          "text": "SS",
+          "nationality" : "British"
+        },
+        "sname": "VP",
+        "email": "ssvp60132n@pace.edu",
+        "gender": { "type": "Female" },
+        "salary": "$100000",
+        "bloodgroup": { "type": "a-positive" },
+        "designation": "Lead",
+        "projects": {
+          "project": [
+            "P1",
+            "P2",
+            "P3"
+          ]
+        }
+      },
+      {
+        "id": "e3",
+        "name": {
+          "age": "25",
+          "nationality": "Indian",
+          "text": "Ashutosh"
+        },
+        "sname": "Singh",
+        "email": "ashutoshsingh@yahoo.com",
+        "gender": { "type": "Male" },
+        "salary": "$1000",
+        "bloodgroup": { "type": "o-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P1",
+            "P2"
+          ]
+        }
+      },
+      {
+        "id": "e4",
+        "name": {
+          "age": "24",
+          "nationality": "Indian",
+          "text": "Akshit"
+        },
+        "sname": "Shah",
+        "email": "shahaa62@gmail.com",
+        "gender": {
+          "type": "Male"
+        },
+        "salary": "$10000",
+        "bloodgroup": {
+          "type": "o-positive"
+        },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P7",
+            "P2"
+          ]
+        }
+      },
+      {
+        "id": "e5",
+        "name": {
+          "age": "24",
+          "nationality": "Indian",
+          "text": "Anup"
+        },
+        "sname": "Hariyapla",
+        "email": "anuphl4@gmail.com",
+        "gender": { "type": "Male" },
+        "salary": "$9999",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P1",
+            "P2",
+            "P3"
+          ]
+        }
+      }
+      ,
+      {
+        "id": "e6",
+        "name": {
+          "age": "24",
+          "nationality": "Indian",
+          "text": "Vikalp"
+        },
+        "sname": "Shastri",
+        "email": "vikalpshastri21@gmail.com",
+        "gender": { "type": "Male" },
+        "salary": "$999",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P1"
+          ]
+        }
+      },
+      {
+        "id": "e7",
+        "name": {
+          "age": "24",
+          "nationality": "Indian",
+          "text": "Akhil"
+        },
+        "sname": "Pattipati",
+        "email": "akhil.pattipati1@gmail.com",
+        "gender": { "type": "Male" },
+        "salary": "$9950",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P2"
+          ]
+        }
+      },
+      {
+        "id": "e9",
+        "name": {
+          "age": "26",
+          "nationality": "Indian",
+          "text": "Richie"
+        },
+        "sname": "Carvalho",
+        "email": "rc87337n@pace.edu",
+        "gender": { "type": "Male" },
+        "salary": "$9950",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P2",
+            "P7"
+          ]
+        }
+      }
+      ,
+      {
+        "id": "e8",
+        "name": {
+          "age": "26",
+          "nationality": "British",
+          "text": "Sherlock"
+        },
+        "sname": "Holmes",
+        "email": "shomes@gmail.com",
+        "gender": { "type": "Male" },
+        "salary": "$9950",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Developer",
+        "projects": {
+          "project": [
+            "P2",
+            "P7"
+          ]
+        }
+      }
+      ,
+      {
+        "id": "e10",
+        "name": {
+          "age": "27",
+          "nationality": "British",
+          "text": "James"
+        },
+        "sname": "Bond",
+        "email": "jbond@gmail.com",
+        "gender": { "type": "Male" },
+        "salary": "$9949",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Module Lead",
+        "projects": {
+          "project": [
+            "P2",
+            "P7"
+          ]
+        }
+      }
+      ,
+      {
+        "id": "e11",
+        "name": {
+          "age": "27",
+          "nationality": "American",
+          "text": "Bruce"
+        },
+        "sname": "Wayne",
+        "email": "bwayne@wayneenteprises.com",
+        "gender": { "type": "Male" },
+        "salary": "$9949",
+        "bloodgroup": { "type": "b-positive" },
+        "designation": "Module Lead",
+        "projects": {
+          "project": [
+            "P2",
+            "P7"
+          ]
+        }
+      }
+    ]
+}
